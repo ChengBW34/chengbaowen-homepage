@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in Microelectronics and Solid-State Electronics at the School of Microelectronics (or your specific institute name, e.g., Institute of Microelectronics), University of Chinese Academy of Sciences (UCAS), China.
+I'm currently pursuing a Master's degree in Microelectronics and Solid-State Electronics at the School of Microelectronics, University of Chinese Academy of Sciences (UCAS), China.
 
 #### Email  
 <code>chengbaowen23@mails.ucas.ac.cn</code>  
